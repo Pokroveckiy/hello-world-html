@@ -20,4 +20,7 @@
     letter-spacing: -1.46;
     line-height: 87.6px;
  }
- 
+ img{
+    display: block;
+    margin: 0 auto;
+ }
