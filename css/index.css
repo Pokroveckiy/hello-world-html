@@ -11,3 +11,7 @@ span {
 .w-text-content{
     font-size: 24px;
 }
+img {
+    width: 800%;
+    height: 38%;
+}
